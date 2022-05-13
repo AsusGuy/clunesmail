@@ -1,4 +1,7 @@
 # clunesmail
+
+Old project no longer maintained. 
+
 Basic Send only email client for use with Postfix.
 
 INSTALLATION:
